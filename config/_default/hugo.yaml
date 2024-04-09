@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Guosheng Hu # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -47,6 +47,8 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  highlight:
+    codeFences: false
 related:
   threshold: 80
   includeNewer: true
