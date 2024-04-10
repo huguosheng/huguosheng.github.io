@@ -254,7 +254,7 @@ sections:
     content:
       title: 
       text: |
-        <a href="https://info.flagcounter.com/MzYn"><img src="https://s01.flagcounter.com/mini/MzYn/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+      <a href="https://clustrmaps.com/site/1bz6t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI&cl=ffffff" /></a>
     design:
       columns: '1'
   
