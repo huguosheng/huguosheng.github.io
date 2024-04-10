@@ -247,6 +247,10 @@ sections:
  
 
         </div>
+
+        <div align="center">
+        <a href='https://clustrmaps.com/site/1bz6t'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=000000&w=400&t=tt&d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI&co=f7f7f7&ct=000000'/></a>
+        </div>
     design:
       columns: '2'
 
@@ -254,9 +258,7 @@ sections:
     content:
       title: 
       text: |
-        <div align="center">
-        <a href='https://clustrmaps.com/site/1bz6t'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=000000&w=400&t=tt&d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI&co=ffffff&ct=000000'/></a>
-        </div>
+
     design:
       columns: '1'
 ---
