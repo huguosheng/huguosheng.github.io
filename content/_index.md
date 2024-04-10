@@ -255,8 +255,6 @@ sections:
       title: 
       text: |
       <a href="https://clustrmaps.com/site/1bz6t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI&cl=ffffff" /></a>
-    design:
-      columns: '1'
   
   
 ---
