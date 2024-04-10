@@ -262,13 +262,6 @@ sections:
         region: United Kingdom
         country_code: UK
       autolink: false
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 
