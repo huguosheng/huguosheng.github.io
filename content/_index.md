@@ -259,7 +259,7 @@ sections:
       address:
         street: 48-60 High St
         city: Belfast
-        region: BT1 2BE
+        region: United Kingdom
         country: United Kingdom
         country_code: UK
     design:
