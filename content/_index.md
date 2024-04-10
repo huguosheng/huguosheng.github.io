@@ -250,13 +250,9 @@ sections:
     design:
       columns: '2'
 
-  - block: markdown
-    content:
-      title: 
-      text: |
-        <div align="center">
-        <a href="https://clustrmaps.com/site/1bz6t"><img src="//www.clustrmaps.com/map_v2.png?d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI&cl=ffffff" width="4000"></a>
-        </div>
-    design:
-      columns: '1'
+    <div align="center">
+    <a href="https://clustrmaps.com/site/1bz6t"><img src="//www.clustrmaps.com/map_v2.png?d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI&cl=ffffff" width="4000"></a>
+    </div>
+
+
 ---
