@@ -258,7 +258,7 @@ sections:
       email: huguosheng100 at gmail.com
       address:
         street: 48-60 High St
-        city: Belfast, BT1 2BE,
+        city: Belfast, BT1 2BE
         region: United Kingdom
         country_code: UK
       autolink: false
