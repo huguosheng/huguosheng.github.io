@@ -255,12 +255,20 @@ sections:
     content:
       title: Contact
       text:
-      email: huguosheng100@gmail.com
+      email: huguosheng100 at gmail.com
       address:
         street: 48-60 High St
         city: Belfast, BT1 2BE,
         region: United Kingdom
         country_code: UK
+      autolink: false
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
       columns: '2'
 
