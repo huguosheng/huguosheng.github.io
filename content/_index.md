@@ -258,25 +258,10 @@ sections:
         <div align="justify">
         Email: huguosheng100 at gmail.com
 
-
-
-        <style>
-        p {
-          line-height: 0.5;
-        }
-        <p>Address: Clockwise Offices,</p>
+        Address: Clockwise Offices,River House,48-60 High St,
         
-        <p>River House,</p>
-        
-        <p>48-60 High St,</p>
+        Belfast,BT1 2BE,UK
 
-        <p>Belfast,</p>
-
-        <p>BT1 2BE,</p>
-
-        <p>UK</p>
-
-        </style>
         </div>
     design:
       columns: '2'
