@@ -259,10 +259,15 @@ sections:
         Email: huguosheng100 at gmail.com
 
         Address: Clockwise Offices, River House,
+
         48-60 High St, 
+
         Belfast,
+
         BT1 2BE,
+
         UK
+        
         </div>
     design:
       columns: '2'
