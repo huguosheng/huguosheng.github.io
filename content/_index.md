@@ -254,6 +254,12 @@ sections:
     content:
       title: 
       text: |
+        <style>
+        .clustrmaps-globe-img {
+          width: 200px; 
+          height: 200px; 
+        }
+        </style>
         <div align="center">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI"></script>
         </div>
