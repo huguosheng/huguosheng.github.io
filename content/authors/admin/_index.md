@@ -77,7 +77,7 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ---
 
 
-27/02/24 &ensp; Two CVPR 2024 papers are accepted.
+27/02/24 &ensp; Two CVPR 2024 papers are accepted and one is 'highlight'.
 
 22/02/24 &ensp; I serve as an Associate Editor of Neurocomputing.
 
