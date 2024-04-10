@@ -252,6 +252,7 @@ sections:
 
 
   - block: contact
+    id: contact
     content:
       title: Contact
       text:
