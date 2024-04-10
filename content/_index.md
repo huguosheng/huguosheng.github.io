@@ -251,26 +251,16 @@ sections:
       columns: '2'
 
 
-  - block: markdown
+  - block: contact
     content:
       title: Contact
-      text: |-
-        <div align="justify">
-        Email: huguosheng100 at gmail.com
-
-        Address: Clockwise Offices, 
-        
-        River House, 
-        
-        48-60 High St, 
-        
-        Belfast, 
-        
-        BT1 2BE, 
-        
-        UK
-
-        </div>
+      text: 
+      email: huguosheng100 at gmail.com
+      address:
+        street: 48-60 High St
+        city: Belfast
+        region: BT1 2BE
+        country_code: UK
     design:
       columns: '2'
 
