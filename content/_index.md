@@ -260,7 +260,6 @@ sections:
         street: 48-60 High St
         city: Belfast
         region: United Kingdom
-        country: United Kingdom
         country_code: UK
     design:
       columns: '2'
