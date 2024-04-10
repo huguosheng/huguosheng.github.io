@@ -258,8 +258,8 @@ sections:
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7s9qiSOu8yFZI6bJdeLVRp-fOK9Iq_3jl7A0dr2-kAI"></script>
         <style>
         .clustrmaps-globe-img {
-          width: 200px; 
-          height: 200px; 
+          width: 50px; 
+          height: 50px; 
         }
         </style>
         </div>
