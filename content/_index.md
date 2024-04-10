@@ -255,10 +255,10 @@ sections:
     content:
       title: Contact
       text:
-      email: huguosheng100 at gmail.com
+      email: huguosheng100@gmail.com
       address:
         street: 48-60 High St
-        city: Belfast
+        city: Belfast, BT1 2BE,
         region: United Kingdom
         country_code: UK
     design:
