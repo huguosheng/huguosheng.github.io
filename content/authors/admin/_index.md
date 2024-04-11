@@ -62,7 +62,7 @@ highlight_name: true
 <div align="justify">
 
 
-Guosheng Hu is currently the Head of Research of [Oosto](https://oosto.com/), a leading visual AI company (2016 - ). He leads a wide range of research  on computer vision and machine learning, and many of his research endeavors have successfully been commercialsed. Additionally, he holds the  position of Honorary Professor of Practice at Queen's University Belfast from 2023. 
+Guosheng Hu is currently the Head of Research of [Oosto](https://oosto.com/) (formerly Anyvision), a leading visual AI company (2016 - ). He leads a wide range of research  on computer vision and machine learning, and many of his research endeavors have successfully been commercialsed. Additionally, he holds a  position of Honorary Professor of Practice at Queen's University Belfast from 2023. 
 
 Before joining Oosto, Guosheng Hu conducted postdoctoral research  under the supervision of Dr. [Jakob Verbeek](https://scholar.google.co.uk/citations?user=oZGA-rAAAAAJ&hl=en) in the LEAR group (now [THOTH](https://team.inria.fr/thoth/) group) at INRIA, Grenoble (2015 - 2016). He earned his PhD under the supervision of Prof. [Josef Kittler](https://www.surrey.ac.uk/people/josef-kittler) at the University of Surrey (2010 - 2015). During his doctoral studies, he completed an internship of 3D face modeling with Prof. [Yisong Yue](http://www.yisongyue.com/) and Dr. Jose Rafael Tena at Disney Research, Pittsburgh in 2013. Guosheng has had the privilege of working with many excellent researchers throughout his career.
 
