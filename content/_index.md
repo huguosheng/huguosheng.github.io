@@ -52,7 +52,7 @@ sections:
 
         ###  Computer Vision
 
-        (Video) Object Detection, Semantic Segmentation, Face Analysis (Recognition, Liveness/Deepfake, Expression), Skeleton- and RGB-based Action Recognition, Foundation Model Applications
+        (Video) Object Detection, Semantic Segmentation, Face Analysis (Recognition, Liveness/Deepfake, Expression), Video Understanding, Foundation Model Applications
 
         <details><summary>Click to expand paper list</summary>
 
