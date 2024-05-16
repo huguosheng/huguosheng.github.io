@@ -62,7 +62,10 @@ highlight_name: true
 <div align="justify">
 
 
+
 **Guosheng Hu** is currently the Head of Research of [**Oosto**](https://oosto.com/) (formerly Anyvision), a leading visual AI company (2016 - ). He leads a wide range of research  on **computer vision** and **machine learning**, and many of his research endeavors have successfully been commercialsed. Additionally, he holds a  position of Honorary Professor of Practice at Queen's University Belfast from 2023. 
+
+### Professional Experience
 
 * **Industrial Roles**: In 2016, **Guosheng Hu** joined **Oosto (formerly Anyvision)** as the Head of Research. Since then, he has been instrumental in leading a wide range of research projects aimed at developing state-of-the-art visual AI solutions. His leadership and innovative research have resulted in numerous publications and commercially successful products, positioning Oosto as a leader in the visual AI industry.
 
