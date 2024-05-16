@@ -167,6 +167,9 @@ sections:
 
 
           ##### **Noisy Label**
+
+        <details style="border: none;">
+        <summary>Click to expand paper list</summary>
           
           Wang, Zhen, Guosheng Hu, and Qinghua Hu. "Training noise-robust deep neural networks via meta-learning." CVPR, 2020.
 
