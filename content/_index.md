@@ -273,7 +273,7 @@ sections:
       text:|-
         <div align="justify">
         
-Guosheng Hu’s impact on the fields of **computer vision** and **machine learning** is profound. As the Head of Research at **Oosto** and an **Honorary Professor of Practice** at **Queen’s University Belfast**, his work continues to shape the future of visual AI. Through his innovative research, dedicated mentorship, and professional contributions, Hu exemplifies the transformative potential of AI in addressing complex challenges and driving technological progress.
+        Guosheng Hu’s impact on the fields of **computer vision** and **machine learning** is profound. As the Head of Research at **Oosto** and an **Honorary Professor of Practice** at **Queen’s University Belfast**, his work continues to shape the future of visual AI. Through his innovative research, dedicated mentorship, and professional contributions, Hu exemplifies the transformative potential of AI in addressing complex challenges and driving technological progress.
 
         </div>
     design:
