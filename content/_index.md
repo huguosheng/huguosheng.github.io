@@ -20,19 +20,19 @@ sections:
         <div align="justify">
 
 
-        Guosheng Hu's research mission focuses on reducing AI's carbon footprint via model acceleration techiques. He leads numerous publications and commercially successful products on adaptively accelerating various computer vision models on diverse hardwares (Nvidia’s A100, V100, Jetson Orin, Intel CPUs, Ambaralla Chips, etc).
-        
-        He has  broad and in-depth knowledge in numerous computer vision and machine learning tasks. His work has been published in prestigious journals and conferences [[Google Scholar](https://scholar.google.co.uk/citations?user=frCHDW4AAAAJ&hl=en)].
+        **Mission:** Hu’s research aims to reduce AI's carbon footprint through model acceleration techniques.
 
+        **Commercial Success:** He has led the development of several successful products that accelerate various computer vision models on diverse hardware platforms, including Nvidia’s A100, V100, Jetson Orin, Intel CPUs, and Ambaralla Chips.
 
-        Very recently, he is interested into accelerating the training and inference of foundation models including large language models, large multimodal models, etc.
+        **Publications:** His work is widely published in prestigious journals and conferences [[Google Scholar](https://scholar.google.co.uk/citations?user=frCHDW4AAAAJ&hl=en)], reflecting his broad and in-depth knowledge of computer vision and machine learning tasks. Recently, his research interests have expanded to include the acceleration of training and inference for foundation models, such as large language models and large multimodal models.
 
         ---
 
-        ###  Model Acceleration
+        ###  **Model Acceleration**
 
 
-        Neural Architecture Search and AutoML, Knowledge Distillation, Quantisation and Pruning
+        #### **Neural Architecture Search and AutoML**
+
 
         <details style="border: none;">
         <summary>Click to expand paper list</summary>
@@ -42,14 +42,29 @@ sections:
           Liang, Tingting, Yongtao Wang, Zhi Tang, Guosheng Hu, and Haibin Ling. "Opanas: One-shot path aggregation network architecture search for object detection." CVPR, 2021.  [[code]](https://github.com/VDIGPKU/OPANAS)
 
           Fan, Zhenkun, Guosheng Hu, Xin Sun, Gaige Wang, Junyu Dong, and Chi Su. "Self-attention neural architecture search for semantic image segmentation." Knowledge-Based Systems 239 (2022): 107968.
+        </details>
 
+        #### **Knowledge Distillation, Quantisation and Pruning**
+
+        <details style="border: none;">
+        <summary>Click to expand paper list</summary>
+        
           Jin, Yufeng, Guosheng Hu, Haonan Chen, Duoqian Miao, Liang Hu, and Cairong Zhao. "Cross-modal distillation for speaker recognition." AAAI, 2023.
 
           Sun, Tianli, Haonan Chen, Guosheng Hu, and Cairong Zhao. "Explainability-Based Knowledge Distillation." Available at SSRN 4460609.
 
-          Chen, Hao, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, and Marios Savvides. "Conv-adapter: Exploring parameter efficient transfer learning for convnets." CVPR Workshop Prompting in Vision, 2024. [code coming soon]
+
         </details>
 
+        #### **Parameter-Efficient Tuning**
+
+        <details style="border: none;">
+        <summary>Click to expand paper list</summary>
+    
+        Chen, Hao, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, and Marios Savvides. "Conv-adapter: Exploring parameter efficient transfer learning for convnets." CVPR Workshop Prompting in Vision, 2024. [code coming soon]
+
+        </details>
+    
         ###  Computer Vision
 
         (Video) Object Detection, Semantic Segmentation, Face Analysis (Recognition, Liveness/Deepfake, Expression), Video Understanding, Foundation Model Applications
@@ -74,7 +89,7 @@ sections:
           Fan, Zhenkun, Guosheng Hu, Xin Sun, Gaige Wang, Junyu Dong, and Chi Su. "Self-attention neural architecture search for semantic image segmentation." Knowledge-Based Systems 239 (2022): 107968.
 
 
-          #### Face 
+          #### Face Analysis
 
           Hu, Guosheng, Yongxin Yang, Dong Yi, Josef Kittler, William Christmas, Stan Z. Li, and Timothy Hospedales. "When face recognition meets with deep learning: an evaluation of convolutional neural networks for face recognition." ICCV workshops, 2015. 
 
