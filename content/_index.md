@@ -32,8 +32,8 @@ sections:
     
         ##### **Neural Architecture Search and AutoML**
 
-            <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+          <details style="border: none;">
+          <summary>Click to expand paper list</summary>
 
           Li, Yonggang, Guosheng Hu, Yongtao Wang, Timothy Hospedales, Neil M. Robertson, and Yongxin Yang. "Differentiable automatic data augmentation." ECCV,  2020.  [[code]](https://github.com/VDIGPKU/DADA)
 
@@ -41,24 +41,24 @@ sections:
 
           Fan, Zhenkun, Guosheng Hu, Xin Sun, Gaige Wang, Junyu Dong, and Chi Su. "Self-attention neural architecture search for semantic image segmentation." Knowledge-Based Systems 239 (2022): 107968.
 
-            </details>
+          </details>
 
 
         ##### **Knowledge Distillation, Quantisation and Pruning**
 
-            <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+          <details style="border: none;">
+          <summary>Click to expand paper list</summary>
         
           Jin, Yufeng, Guosheng Hu, Haonan Chen, Duoqian Miao, Liang Hu, and Cairong Zhao. "Cross-modal distillation for speaker recognition." AAAI, 2023.
 
           Sun, Tianli, Haonan Chen, Guosheng Hu, and Cairong Zhao. "Explainability-Based Knowledge Distillation." Available at SSRN 4460609.
 
-            </details>
+          </details>
 
 
         ##### **Parameter-Efficient Tuning**
 
-            <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
 
     
@@ -71,7 +71,7 @@ sections:
 
           ##### **Detection, Classification and Segmentation**
 
-                <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
 
 
@@ -89,13 +89,13 @@ sections:
 
           Fan, Zhenkun, Guosheng Hu, Xin Sun, Gaige Wang, Junyu Dong, and Chi Su. "Self-attention neural architecture search for semantic image segmentation." Knowledge-Based Systems 239 (2022): 107968.
 
-            </details>
+        </details>
 
 
 
           ##### **Face Analysis**
 
-                <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
 
           Hu, Guosheng, Yongxin Yang, Dong Yi, Josef Kittler, William Christmas, Stan Z. Li, and Timothy Hospedales. "When face recognition meets with deep learning: an evaluation of convolutional neural networks for face recognition." ICCV workshops, 2015. 
@@ -118,13 +118,13 @@ sections:
 
           Hu, Guosheng, Li Liu, Yang Yuan, Zehao Yu, Yang Hua, Zhihong Zhang, Fumin Shen et al. "Deep multi-task learning to recognise subtle facial expressions of mental states." ECCV, 2018.
 
-            </details>
+        </details>
 
 
 
           ##### **Foundation Model Applications**
 
-                <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
           
           Wang, Tianfu, Guosheng Hu, and Hongguang Wang. "Object Pose Estimation via the Aggregation of Diffusion Features." CVPR, 2024. [[code]](https://github.com/Tianfu18/diff-feats-pose)
@@ -140,20 +140,20 @@ sections:
 
           ##### **Multimodal Learning**
 
-                <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
           
           Jin, Yufeng, Guosheng Hu, Haonan Chen, Duoqian Miao, Liang Hu, and Cairong Zhao. "Cross-modal distillation for speaker recognition." AAAI, 2023.
 
           Wang, Hao, Shengda Luo, Guosheng Hu, and Jianguo Zhang. "Gradient-Guided Modality Decoupling for Missing-Modality Robustness." AAAI, 2024.
 
-            </details>
+        </details>
 
 
           ##### **Metric Learning**
 
     
-                    <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
     
           
@@ -163,7 +163,7 @@ sections:
 
           Jiang, Xiruo, Sheng Liu, Xili Dai, Guosheng Hu, Xingguo Huang, Yazhou Yao, Guo-Sen Xie, and Ling Shao. "Deep metric learning based on meta-mining strategy with semiglobal information." IEEE Transactions on Neural Networks and Learning Systems (2022).
 
-            </details>
+        </details>
 
 
           ##### **Noisy Label**
@@ -177,7 +177,7 @@ sections:
 
           ##### **Domain Adaptation**
 
-                    <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
 
           Gao, Jian, Yang Hua, Guosheng Hu, Chi Wang, and Neil M. Robertson. "Discrepancy-guided domain-adaptive data augmentation." IEEE Transactions on Neural Networks and Learning Systems 34, no. 8 (2021): 5064-5075.
@@ -189,7 +189,7 @@ sections:
 
           ##### **Others**
 
-                    <details style="border: none;">
+        <details style="border: none;">
         <summary>Click to expand paper list</summary>
 
           Song, Zifan, Xiao Gong, Guosheng Hu, and Cairong Zhao. "Deep perturbation learning: enhancing the network performance via image perturbations." ICML, 2023.
