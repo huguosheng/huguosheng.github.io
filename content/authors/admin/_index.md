@@ -66,7 +66,7 @@ highlight_name: true
 
 ### PhD
 
-*Guosheng Hu* earned his PhD under the mentorship of **Prof. Josef Kittler** at the **University of Surrey** from 2010 to 2015. His doctoral research focused on advancing **3D face modeling** techniques, culminating in an internship at **Disney Research, Pittsburgh** in 2013, where he worked alongside Prof. Yisong Yue and Dr. Jose Rafael Tena. This experience laid a strong foundation for his future endeavors in **computer vision**.
+**Guosheng Hu** earned his PhD under the mentorship of **Prof. Josef Kittler** at the **University of Surrey** from 2010 to 2015. His doctoral research focused on advancing **3D face modeling** techniques, culminating in an internship at **Disney Research, Pittsburgh** in 2013, where he worked alongside Prof. Yisong Yue and Dr. Jose Rafael Tena. This experience laid a strong foundation for his future endeavors in **computer vision**.
 
 ### Postdoctoral Research
 
