@@ -30,36 +30,24 @@ sections:
 
         ###  **Model Acceleration**
 
-
-        ##### **Neural Architecture Search and AutoML**
-
-
         <details style="border: none;">
         <summary>Click to expand paper list</summary>
-        
+        ##### **Neural Architecture Search and AutoML**
+
           Li, Yonggang, Guosheng Hu, Yongtao Wang, Timothy Hospedales, Neil M. Robertson, and Yongxin Yang. "Differentiable automatic data augmentation." ECCV,  2020.  [[code]](https://github.com/VDIGPKU/DADA)
 
           Liang, Tingting, Yongtao Wang, Zhi Tang, Guosheng Hu, and Haibin Ling. "Opanas: One-shot path aggregation network architecture search for object detection." CVPR, 2021.  [[code]](https://github.com/VDIGPKU/OPANAS)
 
           Fan, Zhenkun, Guosheng Hu, Xin Sun, Gaige Wang, Junyu Dong, and Chi Su. "Self-attention neural architecture search for semantic image segmentation." Knowledge-Based Systems 239 (2022): 107968.
-        </details>
 
         ##### **Knowledge Distillation, Quantisation and Pruning**
-
-        <details style="border: none;">
-        <summary>Click to expand paper list</summary>
         
           Jin, Yufeng, Guosheng Hu, Haonan Chen, Duoqian Miao, Liang Hu, and Cairong Zhao. "Cross-modal distillation for speaker recognition." AAAI, 2023.
 
           Sun, Tianli, Haonan Chen, Guosheng Hu, and Cairong Zhao. "Explainability-Based Knowledge Distillation." Available at SSRN 4460609.
 
-
-        </details>
-
         ##### **Parameter-Efficient Tuning**
 
-        <details style="border: none;">
-        <summary>Click to expand paper list</summary>
     
         Chen, Hao, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, and Marios Savvides. "Conv-adapter: Exploring parameter efficient transfer learning for convnets." CVPR Workshop Prompting in Vision, 2024. [code coming soon]
 
