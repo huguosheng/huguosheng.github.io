@@ -168,7 +168,7 @@ sections:
 
           Gao, Jian, Yang Hua, Guosheng Hu, Chi Wang, and Neil M. Robertson. "Reducing distributional uncertainty by mutual information maximisation and transferable feature learning." ECCV, 2020.
 
-            </details>
+        </details>
 
         <details style="border: none;">
         <summary>Others</summary>
