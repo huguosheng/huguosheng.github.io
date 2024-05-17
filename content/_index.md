@@ -20,11 +20,11 @@ sections:
         <div align="justify">
 
 
-        **Mission:** Hu’s research aims to reduce AI's carbon footprint through model acceleration techniques.
+        **Mission:** **Guosheng Hu**’s research aims to reduce AI's carbon footprint through model acceleration techniques.
 
         **Commercial Success:** He has led the development of several successful products that accelerate various computer vision models on diverse hardware platforms, including Nvidia’s A100, V100, Jetson Orin, Intel CPUs, and Ambaralla Chips.
 
-        **Publications:** His work is widely published in prestigious journals and conferences [[Google Scholar](https://scholar.google.co.uk/citations?user=frCHDW4AAAAJ&hl=en)], reflecting his broad and in-depth knowledge of computer vision and machine learning tasks. Recently, his research interests have expanded to include the acceleration of training and inference for foundation models, such as large language models and large multimodal models.
+        **Publications:** His work is widely published in prestigious journals and conferences [[Google Scholar](https://scholar.google.co.uk/citations?user=frCHDW4AAAAJ&hl=en)], reflecting his broad and in-depth knowledge of **computer vision** and **machine learning** tasks. Recently, his research interests have expanded to the acceleration of training and inference for foundation models, such as large language models and large multimodal models.
 
         ---
 
