@@ -29,11 +29,9 @@ sections:
         ---
 
         ###  **Model Acceleration**
-    
-        ##### **Neural Architecture Search and AutoML**
 
-          <details style="border: none;">
-          <summary>Click to expand paper list</summary>
+        <details style="border: none;">
+        <summary>**Neural Architecture Search and AutoML**</summary>
 
           Li, Yonggang, Guosheng Hu, Yongtao Wang, Timothy Hospedales, Neil M. Robertson, and Yongxin Yang. "Differentiable automatic data augmentation." ECCV,  2020.  [[code]](https://github.com/VDIGPKU/DADA)
 
