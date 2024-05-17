@@ -31,7 +31,7 @@ sections:
         ###  **Model Acceleration**
 
         <details style="border: none;">
-        <summary>**Neural Architecture Search and AutoML**</summary>
+        <summary>Neural Architecture Search and AutoML</summary>
 
           Li, Yonggang, Guosheng Hu, Yongtao Wang, Timothy Hospedales, Neil M. Robertson, and Yongxin Yang. "Differentiable automatic data augmentation." ECCV,  2020.  [[code]](https://github.com/VDIGPKU/DADA)
 
@@ -41,11 +41,8 @@ sections:
 
           </details>
 
-
-        ##### **Knowledge Distillation, Quantisation and Pruning**
-
-          <details style="border: none;">
-          <summary>Click to expand paper list</summary>
+        <details style="border: none;">
+        <summary>Knowledge Distillation, Quantisation and Pruning</summary>
         
           Jin, Yufeng, Guosheng Hu, Haonan Chen, Duoqian Miao, Liang Hu, and Cairong Zhao. "Cross-modal distillation for speaker recognition." AAAI, 2023.
 
@@ -53,11 +50,8 @@ sections:
 
           </details>
 
-
-        ##### **Parameter-Efficient Tuning**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Parameter-Efficient Tuning</summary>
 
     
         Chen, Hao, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, and Marios Savvides. "Conv-adapter: Exploring parameter efficient transfer learning for convnets." CVPR Workshop Prompting in Vision, 2024. [code coming soon]
@@ -67,10 +61,8 @@ sections:
         ###  **Computer Vision**
 
 
-          ##### **Detection, Classification and Segmentation**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Detection, Classification and Segmentation</summary>
 
 
           Sun, Guanxiong, Yang Hua, Guosheng Hu, and Neil Robertson. "Efficient one-stage video object detection by exploiting temporal consistency." ECCV, 2022. [[slides]](https://docs.google.com/presentation/d/e/2PACX-1vRFKveZAUvAawzc985TUERJCuLpxC7GdHec5ZSHt9Tz2kNXdEMJqHzPpJVQ622Kuw/pub?start=false&loop=false&delayms=3000&slide=id.p1) [[code]](https://github.com/guanxiongsun/EOVOD)
@@ -90,11 +82,8 @@ sections:
         </details>
 
 
-
-          ##### **Face Analysis**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Face Analysis</summary>
 
           Hu, Guosheng, Yongxin Yang, Dong Yi, Josef Kittler, William Christmas, Stan Z. Li, and Timothy Hospedales. "When face recognition meets with deep learning: an evaluation of convolutional neural networks for face recognition." ICCV workshops, 2015. 
 
@@ -120,10 +109,9 @@ sections:
 
 
 
-          ##### **Foundation Model Applications**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Foundation Model Applications</summary>
+
           
           Wang, Tianfu, Guosheng Hu, and Hongguang Wang. "Object Pose Estimation via the Aggregation of Diffusion Features." CVPR, 2024. [[code]](https://github.com/Tianfu18/diff-feats-pose)
 
@@ -148,11 +136,10 @@ sections:
         </details>
 
 
-          ##### **Metric Learning**
+        <details style="border: none;">
+        <summary>Metric Learning</summary>
 
     
-        <details style="border: none;">
-        <summary>Click to expand paper list</summary>
     
           
           Wang, Xinshao, Yang Hua, Elyor Kodirov, Guosheng Hu, Romain Garnier, and Neil M. Robertson. "Ranked list loss for deep metric learning." CVPR, 2019.
@@ -163,11 +150,9 @@ sections:
 
         </details>
 
-
-          ##### **Noisy Label**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Noisy Label</summary>
+
           
           Wang, Zhen, Guosheng Hu, and Qinghua Hu. "Training noise-robust deep neural networks via meta-learning." CVPR, 2020.
 
@@ -175,11 +160,9 @@ sections:
 
         </details>
 
-
-          ##### **Domain Adaptation**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Domain Adaptation</summary>
+
 
           Gao, Jian, Yang Hua, Guosheng Hu, Chi Wang, and Neil M. Robertson. "Discrepancy-guided domain-adaptive data augmentation." IEEE Transactions on Neural Networks and Learning Systems 34, no. 8 (2021): 5064-5075.
 
@@ -187,11 +170,8 @@ sections:
 
             </details>
 
-
-          ##### **Others**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Others</summary>
 
           Song, Zifan, Xiao Gong, Guosheng Hu, and Cairong Zhao. "Deep perturbation learning: enhancing the network performance via image perturbations." ICML, 2023.
 
