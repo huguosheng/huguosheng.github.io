@@ -28,9 +28,9 @@ sections:
 
         ---
 
-        Selected Publications
+        ### Selected Publications
 
-        ###  **Model Acceleration**
+        ####  **Model Acceleration**
 
         <details style="border: none;">
         <summary>Neural Architecture Search and AutoML</summary>
@@ -60,7 +60,7 @@ sections:
 
         </details>
     
-        ###  **Computer Vision**
+        ####  **Computer Vision**
 
 
         <details style="border: none;">
@@ -123,7 +123,7 @@ sections:
           
         </details>
 
-        ###  **Machine Learning**
+        ####  **Machine Learning**
 
         <details style="border: none;">
         <summary>Multimodal Learning</summary>
