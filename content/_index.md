@@ -123,11 +123,8 @@ sections:
 
         ###  **Machine Learning**
 
-
-          ##### **Multimodal Learning**
-
         <details style="border: none;">
-        <summary>Click to expand paper list</summary>
+        <summary>Multimodal Learning</summary>
           
           Jin, Yufeng, Guosheng Hu, Haonan Chen, Duoqian Miao, Liang Hu, and Cairong Zhao. "Cross-modal distillation for speaker recognition." AAAI, 2023.
 
