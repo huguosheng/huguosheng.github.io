@@ -85,7 +85,7 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ##### News
 ---
 
-01/07/24 &ensp; One ECCV2024 paper is accepted.
+01/07/24 &ensp; One ECCV 2024 paper is accepted.
 
 27/02/24 &ensp; Two CVPR 2024 papers are accepted and one is 'highlight'.
 
