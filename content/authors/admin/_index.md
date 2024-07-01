@@ -63,7 +63,9 @@ highlight_name: true
 
 
 
-**Guosheng Hu** is currently the Head of Research of [**Oosto**](https://oosto.com/) (formerly Anyvision), a leading visual AI company (2016 - ). He leads a wide range of research  on **computer vision** and **machine learning**, and many of his research endeavors have successfully been commercialsed. Additionally, he holds a  position of Honorary Professor of Practice at Queen's University Belfast from 2023. <font color=FF0000><strong>I will be joining the University of Bristol as a Senior Lecturer in AI in September 2024.</strong></font>
+**Guosheng Hu** is currently the Head of Research of [**Oosto**](https://oosto.com/) (formerly Anyvision), a leading visual AI company (2016 - ). He leads a wide range of research  on **computer vision** and **machine learning**, and many of his research endeavors have successfully been commercialsed. Additionally, he holds a  position of Honorary Professor of Practice at Queen's University Belfast from 2023. 
+
+<font color=FF0000><strong>I will be joining the University of Bristol as a Senior Lecturer in AI in September 2024.</strong></font>
 
 ### Professional Experience
 
@@ -83,6 +85,7 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ##### News
 ---
 
+01/07/24 &ensp; One ECCV2024 paper is accepted.
 
 27/02/24 &ensp; Two CVPR 2024 papers are accepted and one is 'highlight'.
 
