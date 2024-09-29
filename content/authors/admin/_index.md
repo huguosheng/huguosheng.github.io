@@ -95,6 +95,8 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 
 09/12/23 &ensp; Three AAAI 2024 papers are accepted.
 
+&nbsp;
+
 ##### Recruitment
 ---
 I am looking for prospective PhD students, visiting students, and interns for the 2025 entry. Research topics will focus on computer vision and model acceleration. Studentships (University-level, Faculty-level, CDTs, CSC and others) are available for both home and international students. Feel free to drop me an email to discuss these opportunities!
