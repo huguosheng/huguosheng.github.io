@@ -73,9 +73,9 @@ highlight_name: true
 
 * **Industrial Roles**: In 2016, **Guosheng Hu** joined **Oosto (formerly Anyvision)** as a senior researcher intially and then was promoted as Head of Research. Since then, he has led a wide range of research projects aimed at developing state-of-the-art visual AI solutions. His leadership and innovative research have resulted in numerous publications and commercially successful products at Oosto.
 
-* **Postdoc**: Following his PhD, **Guosheng Hu** conducted postdoctoral research under the supervision of Dr. [**Jakob Verbeek**](https://scholar.google.co.uk/citations?user=oZGA-rAAAAAJ&hl=en) in the LEAR group (now [THOTH](https://team.inria.fr/thoth/) group) at **INRIA, Grenoble** from 2015 to 2016. His work during this period further honed his expertise in **computer vision** and **machine learning**.
+* **Postdoc**: Following his PhD, **Guosheng Hu** conducted postdoctoral research under the supervision of Dr. [**Jakob Verbeek**](https://scholar.google.co.uk/citations?user=oZGA-rAAAAAJ&hl=en) in the LEAR group (now [THOTH](https://team.inria.fr/thoth/) group) at **INRIA, Grenoble** from 2015 to 2016. 
 
-* **PhD**: **Guosheng Hu** earned his PhD under the supervision of Prof. [**Josef Kittler**](https://www.surrey.ac.uk/people/josef-kittler) at the **University of Surrey** from 2010 to 2015. His doctoral research focused on advancing 3D face modeling techniques, leading to an internship at **Disney Research, Pittsburgh** in 2013, where he worked alongside Prof. [**Yisong Yue**](http://www.yisongyue.com/) and Dr. **Jose Rafael Tena**. This experience laid a strong foundation for his future endeavors in **computer vision**.
+* **PhD**: **Guosheng Hu** earned his PhD under the supervision of Prof. [**Josef Kittler**](https://www.surrey.ac.uk/people/josef-kittler) at the **University of Surrey** from 2010 to 2015. His doctoral research focused on advancing 2D and 3D face modeling techniques, leading to an internship at **Disney Research, Pittsburgh** in 2013, where he worked alongside Prof. [**Yisong Yue**](http://www.yisongyue.com/) and Dr. **Jose Rafael Tena**. 
 
 
 I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
@@ -83,6 +83,10 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 
 &nbsp;
 
+### Recruitment
+I am looking for prospective PhD students, visiting students, and interns for the 2025 entry. Research topics will focus on computer vision and model acceleration. Studentships (University-level, Faculty-level, CDTs, CSC and others) are available for both home and international students. Feel free to drop me an email to discuss these opportunities!
+
+&nbsp;
 
 ##### News
 ---
