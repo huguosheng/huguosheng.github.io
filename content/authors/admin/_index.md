@@ -71,11 +71,11 @@ highlight_name: true
 
 * **Senior Lecturer**: **Guosheng Hu** joined University of Bristol as a Senior Lecturer of AI in September, 2024.
 
-* **Industrial Roles**: In 2016, **Guosheng Hu** joined **Oosto (formerly Anyvision)** as a senior researcher intially and then was promoted as Head of Research. Since then, he has led a wide range of research projects aimed at developing state-of-the-art visual AI solutions. His leadership and innovative research have resulted in numerous publications and commercially successful products at Oosto.
+* **Industrial Roles**: In 2016, **Guosheng Hu** joined **Oosto (formerly Anyvision)** as a senior researcher intially and then was promoted as Head of Research. His leadership and innovative research have resulted in numerous publications and commercially successful products at Oosto.
 
 * **Postdoc**: Following his PhD, **Guosheng Hu** conducted postdoctoral research under the supervision of Dr. [**Jakob Verbeek**](https://scholar.google.co.uk/citations?user=oZGA-rAAAAAJ&hl=en) in the LEAR group (now [THOTH](https://team.inria.fr/thoth/) group) at **INRIA, Grenoble** from 2015 to 2016. 
 
-* **PhD**: **Guosheng Hu** earned his PhD under the supervision of Prof. [**Josef Kittler**](https://www.surrey.ac.uk/people/josef-kittler) at the **University of Surrey** from 2010 to 2015. His doctoral research focused on advancing 2D and 3D face modeling techniques, leading to an internship at **Disney Research, Pittsburgh** in 2013, where he worked alongside Prof. [**Yisong Yue**](http://www.yisongyue.com/) and Dr. **Jose Rafael Tena**. 
+* **PhD**: **Guosheng Hu** earned his PhD under the supervision of Prof. [**Josef Kittler**](https://www.surrey.ac.uk/people/josef-kittler) at the **University of Surrey** from 2010 to 2015. His doctoral research focused on advancing 2D and 3D face modeling techniques, leading to an internship at **Disney Research, Pittsburgh**, where he worked alongside Prof. [**Yisong Yue**](http://www.yisongyue.com/) and Dr. **Jose Rafael Tena**. 
 
 
 I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
