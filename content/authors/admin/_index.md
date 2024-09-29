@@ -99,6 +99,6 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 
 ##### Recruitment
 ---
-I am looking for prospective PhD students, visiting students, and interns for the 2025 entry. Research topics will focus on computer vision and model acceleration. Studentships (University-level, Faculty-level, CDTs, CSC and others) are available for both home and international students. Feel free to drop me an email to discuss these opportunities!
+I am looking for prospective PhD students, visiting students, and interns for the 2025 entry. Research topics will focus on computer vision and model acceleration. Scholarships (University-level, Faculty-level, CDTs, CSC and others) are available for both home and international students. Feel free to drop me an email to discuss these opportunities!
 
 </div>
