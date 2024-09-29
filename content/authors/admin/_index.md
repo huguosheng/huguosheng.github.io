@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Head of Research
+role: Senior Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Oosto
-    url: https://oosto.com/
+  - name: University of Bristol
+    url: https://www.bristol.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -63,9 +63,9 @@ highlight_name: true
 
 
 
-**Guosheng Hu** is currently the Head of Research of [**Oosto**](https://oosto.com/) (formerly Anyvision), a leading visual AI company (2016 - ). He leads a wide range of research  on **computer vision** and **machine learning**, and many of his research endeavors have successfully been commercialsed. Additionally, he holds a  position of Honorary Professor of Practice at Queen's University Belfast from 2023. 
+**Guosheng Hu**  is currently a Senior Lecturer of University of Bristol (Sep 2024 - ). Before that, He was the Head of Research of [**Oosto**](https://oosto.com/) (formerly Anyvision), a leading visual AI company (2016 - 2024). He leads a wide range of research  on **computer vision** and **machine learning**, and many of his research endeavors have successfully been commercialsed. Additionally, he holds a  position of Honorary Professor of Practice at Queen's University Belfast from 2023. 
 
-<font color=FF0000><strong>I will be joining the University of Bristol as a Senior Lecturer in AI in September 2024.</strong></font>
+
 
 ### Professional Experience
 
