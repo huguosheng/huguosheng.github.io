@@ -69,7 +69,7 @@ highlight_name: true
 
 ### Professional Experience
 
-* **Senior Lecturer**: **Guosheng Hu** joined University of Bristol as a Senior Lecturer of AI in September, 2024 [**University Profile**](https://www.bristol.ac.uk/people/person/Guosheng-Hu-ecfd549b-d733-4a76-9a95-dfe49ea8c894/).
+* **Senior Lecturer**: **Guosheng Hu** joined University of Bristol as a Senior Lecturer of AI in September, 2024 [[University Profile]](https://www.bristol.ac.uk/people/person/Guosheng-Hu-ecfd549b-d733-4a76-9a95-dfe49ea8c894/).
 
 * **Industrial Roles**: In 2016, **Guosheng Hu** joined **Oosto (formerly Anyvision)** as a senior researcher intially and then was promoted as Head of Research. His leadership and innovative research have resulted in numerous publications and commercially successful products at Oosto.
 
