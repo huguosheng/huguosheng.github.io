@@ -71,7 +71,7 @@ highlight_name: true
 
 * **Senior Lecturer**: **Guosheng Hu** joined University of Bristol as a Senior Lecturer of AI in September, 2024 [[link]](https://www.bristol.ac.uk/people/person/Guosheng-Hu-ecfd549b-d733-4a76-9a95-dfe49ea8c894/).
 
-* **Industrial Roles**: In 2016, **Guosheng Hu** joined **Oosto (formerly Anyvision)** as a senior researcher intially and then was promoted as Head of Research. His leadership and innovative research have resulted in numerous publications and commercially successful products at Oosto.
+* **Industrial Roles**: In 2016, **Guosheng Hu** joined **Oosto (formerly Anyvision)** as a senior researcher intially and then was promoted as Head of Research. His  innovative research have resulted in numerous publications and commercially successful products at Oosto.
 
 * **Postdoc**: Following his PhD, **Guosheng Hu** conducted postdoctoral research under the supervision of Dr. [**Jakob Verbeek**](https://scholar.google.co.uk/citations?user=oZGA-rAAAAAJ&hl=en) in the LEAR group (now [THOTH](https://team.inria.fr/thoth/) group) at **INRIA, Grenoble** from 2015 to 2016. 
 
