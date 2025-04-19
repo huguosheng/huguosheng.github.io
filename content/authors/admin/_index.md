@@ -87,7 +87,7 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ##### News
 ---
 
-17/04/2025 &ensp; Dr. Chen Chen and I are chairing BMVC2025 workshops. You are more than welcome to apply to organise a workshop <a href="[URL](https://bmvc2025.bmva.org/calls/call-for-workshops/)">link</a>.
+17/04/2025 &ensp; Dr. Chen Chen and I are chairing BMVC2025 workshops. You are more than welcome to apply to organise a workshop <a href="[URL](https://bmvc2025.bmva.org/calls/call-for-workshops/)">link</a>.-
 
 17/04/2025 &ensp; Dr. Chen Chen and I are chairing BMVC2025 workshops. You are more than welcome to apply to organise a workshop [link](https://bmvc2025.bmva.org/calls/call-for-workshops/).
 
