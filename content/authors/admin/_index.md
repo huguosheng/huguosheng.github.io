@@ -89,8 +89,11 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> parent of 24f8b12 (Update _index.md)
 17/04/2025 &ensp; Dr. Chen Chen and I are chairing BMVC2025 workshops. You are more than welcome to apply to organise a workshop <a href="[URL](https://bmvc2025.bmva.org/calls/call-for-workshops/)">link</a>.
 
 >>>>>>> parent of 24f8b12 (Update _index.md)
