@@ -87,7 +87,7 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ##### News
 ---
 
-17/04/2025 &ensp; <a href="链接地址">链接文本</a>
+17/04/2025 &ensp; sdasdh
 
 &nbsp;
 
