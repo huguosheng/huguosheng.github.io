@@ -87,6 +87,13 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ##### News
 ---
 
+<<<<<<< HEAD
+=======
+17/04/2025 &ensp; Dr. Chen Chen and I are chairing BMVC2025 workshops. You are more than welcome to apply to organise a workshop [link](https://bmvc2025.bmva.org/calls/call-for-workshops/).
+
+10/03/2025 &ensp; We are organising a workshop ([UAVs in Multimedia: Capturing the World from a New Perspective](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/)) on [ACM MM 2025](https://acmmm2025.org/).
+
+>>>>>>> parent of 203b8b2 (Merge pull request #1 from tfwang08/patch-1)
 27/02/24 &ensp; Two CVPR 2024 papers are accepted and one is 'highlight'.
 
 22/02/24 &ensp; I serve as an Associate Editor of Neurocomputing.
