@@ -213,7 +213,7 @@ sections:
         
         &nbsp;
 
-        I work as an industrial supervisor to co-supervise Oosto sponsored PhD students: 
+        <!--I work as an industrial supervisor to co-supervise Oosto sponsored PhD students:   -->
 
         <!--[Hao Chen](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en), Carnegie Mellon University (2022 - )  -->
 
