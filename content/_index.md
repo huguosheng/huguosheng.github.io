@@ -215,17 +215,17 @@ sections:
 
         I work as an industrial supervisor to co-supervise Oosto sponsored PhD students: 
 
-        [Hao Chen](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en), Carnegie Mellon University (2022 - ) 
+        <!--[Hao Chen](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en), Carnegie Mellon University (2022 - )  -->
 
-        [Uzair Ahmed](https://scholar.google.com/citations?user=lw_3tBIAAAAJ&hl=en), Carnegie Mellon University (2022 -) 
+        <!--[Uzair Ahmed](https://scholar.google.com/citations?user=lw_3tBIAAAAJ&hl=en), Carnegie Mellon University (2022 -)  -->
 
-        [Ran Tao](https://scholar.google.com/citations?user=7xW2y6EAAAAJ&hl=en), Carnegie Mellon University (2022 -) 
+        <!--[Ran Tao](https://scholar.google.com/citations?user=7xW2y6EAAAAJ&hl=en), Carnegie Mellon University (2022 -)  -->
 
-        [Guanxiong Sun](https://scholar.google.com/citations?user=vLk3IzoAAAAJ&hl=en), Queen's University Belfast (2019 - 2022) 
+        <!--[Guanxiong Sun](https://scholar.google.com/citations?user=vLk3IzoAAAAJ&hl=en), Queen's University Belfast (2019 - 2022) --> 
 
-        [Jian Gao](https://scholar.google.com/citations?user=DCZRHikAAAAJ&hl=en), Queen's University Belfast (2018 - 2022) 
+        <!--[Jian Gao](https://scholar.google.com/citations?user=DCZRHikAAAAJ&hl=en), Queen's University Belfast (2018 - 2022)  -->
 
-        [Xinshao Wang](https://scholar.google.co.uk/citations?user=yOBhB7UAAAAJ&hl=en), Queen's University Belfast (2017 - 2020) 
+        <!--[Xinshao Wang](https://scholar.google.co.uk/citations?user=yOBhB7UAAAAJ&hl=en), Queen's University Belfast (2017 - 2020) --> 
  
 
         </div>
