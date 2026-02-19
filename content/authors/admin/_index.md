@@ -88,11 +88,11 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ---
 Feb 2026  &ensp; One ICLR paper accepted.
 
-Feb 2026  &ensp; Invited as BMVC2026 workshop chair
+Feb 2026  &ensp; Invited as BMVC2026 workshop chair.
 
 Nov 2025  &ensp; One TPAMI paper accepted.
 
-Sep 2025  &ensp; Received NVIDIA Academic Grant
+Sep 2025  &ensp; Received NVIDIA Academic Grant.
 
 Jun 2025 &ensp; I become a member of ELLIS ([link](https://ellis.eu/members)).
 
