@@ -86,16 +86,23 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 
 ##### News
 ---
+Feb 2026  &ensp; One ICLR paper accepted.
 
-30/06/2025 &ensp; I become a member of ELLIS ([link](https://ellis.eu/members)).
+Feb 2026  &ensp; Invited as BMVC2026 workshop chair
 
-17/04/2025 &ensp; Dr. Chen Chen and I are chairing BMVC2025 workshops. You are more than welcome to apply to organise a workshop ([link](https://bmvc2025.bmva.org/calls/call-for-workshops/)).
+Nov 2025  &ensp; One TPAMI paper accepted.
 
-10/03/2025 &ensp; We are organising a workshop ([UAVs in Multimedia: Capturing the World from a New Perspective](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/)) on [ACM MM 2025](https://acmmm2025.org/).
+Sep 2025  &ensp; Received NVIDIA Academic Grant
 
-27/02/24 &ensp; Two CVPR 2024 papers are accepted and one is 'highlight'.
+Jun 2025 &ensp; I become a member of ELLIS ([link](https://ellis.eu/members)).
 
-22/02/24 &ensp; I serve as an Associate Editor of Neurocomputing.
+Apr 2025 &ensp; Dr. Chen Chen and I are chairing BMVC2025 workshops. You are more than welcome to apply to organise a workshop ([link](https://bmvc2025.bmva.org/calls/call-for-workshops/)).
+
+Mar 2025 &ensp; We are organising a workshop ([UAVs in Multimedia: Capturing the World from a New Perspective](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/)) on [ACM MM 2025](https://acmmm2025.org/).
+
+Feb 2024 &ensp; Two CVPR 2024 papers are accepted and one is 'highlight'.
+
+Feb 2024 &ensp; I serve as an Associate Editor of Neurocomputing.
 
 &nbsp;
 
