@@ -243,6 +243,8 @@ sections:
       text: |-
         <div align="justify">
 
+        EPSRC IAA Funding, June - Dec 2026
+
         NVIDIA Academic Grant, Sep 2025 -
 
         King’s College London NMES Enterprise Engagement Partnerships Fund, January - June 2024.
