@@ -88,6 +88,8 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ---
 July 2026 &ensp; Give a Keynote Speech 'Accelerating Deep Learning Models' at The 8th International Conference on Application Intelligence and Blockchain Security  ([link](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192869&copyownerid=197614)).
 
+July 2026 &ensp; Selected as SPC of AAAI2027
+
 Feb 2026  &ensp; One ICLR paper accepted.
 
 Feb 2026  &ensp; Invited as BMVC2026 workshop chair.
