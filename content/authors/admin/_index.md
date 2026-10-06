@@ -86,6 +86,10 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 
 ##### News
 ---
+Oct 2026 &ensp; Selected to be one ELLIS Scholar.
+
+Sep 2026 &ensp; Invited to be one Mentor of Doctor Consortium on BMVC 2026.
+
 July 2026 &ensp; Selected as SPC of AAAI2027.
 
 July 2026 &ensp; Give a Keynote Speech 'Accelerating Deep Learning Models' at The 8th International Conference on Application Intelligence and Blockchain Security  ([link](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192869&copyownerid=197614)).
