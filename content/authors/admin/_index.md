@@ -88,6 +88,8 @@ I (try to) adhere to the principles of [Slow Science](http://slow-science.org/).
 ---
 Oct 2026 &ensp; Selected to be one ELLIS Scholar.
 
+Oct 2026 &ensp; One IJCV paper accepted.
+
 Sep 2026 &ensp; Invited to be one Mentor of Doctor Consortium on BMVC 2026.
 
 July 2026 &ensp; Selected as SPC of AAAI2027.
