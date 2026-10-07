@@ -7,18 +7,12 @@ on:
   # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # If Pages is still configured as "Deploy from a branch", GitHub also runs
-  # its generated Jekyll workflow. Re-run the Hugo deployment after that
-  # workflow completes so the Hugo artifact is the final site published.
-  workflow_run:
-    workflows: ["pages build and deployment"]
-    types: [completed]
-    branches: ["main"]
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
+  actions: read
   contents: read
   pages: write
   id-token: write
@@ -30,7 +24,7 @@ concurrency:
 jobs:
   # Build website
   build:
-    if: github.repository_owner != 'HugoBlox' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
+    if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -72,6 +66,36 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Wait for generated branch Pages deployment
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          missing_count=0
+          for i in $(seq 1 60); do
+            status=$(gh api "/repos/${GITHUB_REPOSITORY}/actions/runs?head_sha=${GITHUB_SHA}&per_page=100" \
+              --jq '[.workflow_runs[] | select(.name=="pages build and deployment" and .event=="dynamic")] | sort_by(.created_at) | last | .status // "missing"')
+
+            echo "Generated Pages workflow status: ${status}"
+
+            if [ "${status}" = "completed" ]; then
+              echo "Generated branch Pages deployment finished; Hugo will deploy last."
+              break
+            fi
+
+            if [ "${status}" = "missing" ]; then
+              missing_count=$((missing_count + 1))
+              if [ "${missing_count}" -ge 6 ]; then
+                echo "No generated branch Pages workflow found; continuing."
+                break
+              fi
+            else
+              missing_count=0
+            fi
+
+            sleep 5
+          done
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
