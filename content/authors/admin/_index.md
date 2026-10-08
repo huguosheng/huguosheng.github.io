@@ -90,6 +90,8 @@ Oct 2026 &ensp; Selected to be one ELLIS Scholar.
 
 Oct 2026 &ensp; One IJCV paper accepted.
 
+Sep 2026 &ensp; One EuroSys'27 paper accepted.
+
 Sep 2026 &ensp; Invited to be one Mentor of Doctor Consortium on BMVC 2026.
 
 July 2026 &ensp; Selected as SPC of AAAI2027.
